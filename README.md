@@ -1,2 +1,2 @@
 My first readme 
-My readme is up tp date now
+My readme is up to date now
